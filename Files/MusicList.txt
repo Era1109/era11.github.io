@@ -1,0 +1,20 @@
+You Belong WithMe ,Taylor Swift,3 mins,Musics\TaylorSwiftYouBelongWithMe.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s3.jpg
+
+Beauty And A Beat,Justin Bieber,3 mins,Musics\Justin Bieber  Beauty And A Beat j.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s2.jpg
+
+Let Me Love You,Justin Bieber,3 mins,Musics\Justin Bieber  Let Me Love You.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s10.jpg
+
+Sorry,Justin Bieber,3 mins,Musics\Justin Bieber  Sorry  1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s9.jpg
+
+AntiHero,Taylor Swift,3 mins,Musics\Taylor Swift  AntiHero 1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s8.jpg
+
+Blank Space,Taylor Swift,3 mins,Musics\Taylor Swift  Blank Space 1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s7.jpg
+
+Look What You Made Me Do,Taylor Swift,3 mins,Musics\Taylor Swift  Look What You Made Me Do 1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s6.jpg
+
+Love Story,Taylor Swift,3 mins,Musics\Taylor Swift  Love Story 1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s5.jpg
+
+Lover,Taylor Swift,3 mins,Musics\Taylor Swift  Lover  1.wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s4.jpg
+
+Baby,Justin Bieber,3 mins,Musics\JustinBieber  Baby .wav,C:\Users\Hp\Documents\JAVA\Java PROJECT\OUR Project(Latest)\New folder\s1.jpg
+
